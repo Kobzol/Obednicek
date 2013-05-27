@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_middle">12dp</dimen>
+    <dimen name="Scaled_Pixels_15">15sp</dimen>
+
+</resources>

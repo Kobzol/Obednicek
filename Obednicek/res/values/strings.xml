@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">Obědníček</string>
+    <string name="title_activity_main">Obědníček</string>
+    <string name="button_fetch">Fetch Data</string>
+    <string name="retry">Obnovit</string>
+    <string name="button_odeslat">Odeslat</string>
+    <string name="button_obnovit">Obnovit</string>
+    <string name="title_activity_jidelnicek">Objednávka jídel</string>
+    <string name="button_login">Přihlásit se</string>
+    <string name="hint_username">Uživatel</string>
+    <string name="hint_password">Heslo</string>
+    <string name="hint_zarizeni">Číslo jídelny</string>
+    <string name="jidelna_default">4363</string>
+    <string name="checkbox_remember_details">Zapamatovat</string>
+    <string name="menu_help">Nápověda</string>
+    <string name="menu_logout">Odhlásit se</string>
+    <string name="konto">Konto:</string>
+    <string name="title_activity_help">Nápověda</string>
+    <string name="help_Odeslat">Uloží vybrané změny a obnoví jídelníček</string>
+    <string name="help_obnovit">Obnoví jídelníček (změny NEBUDOU uloženy!)</string>
+    <string name="help_konto_priklad">Konto: 0,00 Kč</string>
+    <string name="help_konto">Zobrazuje momentální stav konta</string>
+    <string name="help_control">Přihlášení i odhlášení se provádí klepnutím na zvolený oběd. Přihlášené obědy jsou zobrazeny tučně a je u nich ikonka talíře. Na každý den si můžete vybrat jeden oběd. Objednávání i odhlašování končí v 13:30, vždy jeden pracovní den před výdejem obědu.</string>
+    <string name="menu_exit">Ukončit</string>
+    <string name="obed">obed</string>
+    <string name="service_name">Dnešní oběd</string>
+    <string name="menu_service_turnoff">Zastavit službu Dnešní oběd</string>
+    <string name="menu_service_turnon">Spustit službu Dnešní oběd</string>
+    <string name="help_service">Služba Dnešní oběd se automaticky spouští po zapnutí mobilu nebo této aplikace. Lze ji vypnout v nastavení. Tato služba každý den zobrazuje upozornění s názvem přihlášeného obědu na daný den.</string>
+    <string name="button_zarizeni">Vybrat</string>
+    <string name="button_offline">Offline jídelníček</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_facilities">FacilitiesActivity</string>
+    <string name="menu_settings">Nastavení</string>
+    <string name="title_activity_preferences">Nastavení</string>
+
+</resources>

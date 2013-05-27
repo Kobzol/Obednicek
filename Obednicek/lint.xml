@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="UseCompoundDrawables">
+        <ignore path="res\layout\listview_layout_1.xml" />
+    </issue>
+</lint>

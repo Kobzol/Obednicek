@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    <CheckBoxPreference
+        android:key="pref_service"
+        android:title="Služba dnešní oběd"
+        android:summary="Každý den ve vybraný čas zobrazí objednaný oběd"
+        android:defaultValue="true"
+        android:persistent="true" />
+    <com.ghrabuvka.obednicek.DateTimePreference
+        android:key="pref_time"
+        android:title="Čas zobrazení upozornění"
+        android:dependency="pref_service"
+        android:summary="6:00"
+        />
+</PreferenceScreen>
