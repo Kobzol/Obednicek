@@ -60,7 +60,7 @@ public class JidelnicekActivity extends Activity {
         setResult(0);
         if (SID != null)
         {
-        	if (isOnline() && (!SID.equals("") && SID.length() == 10))
+        	i (isOnline() && (!SID.equals("") && SID.length() == 10))
         	{
         		downloadData(null);
         	}
